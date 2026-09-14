@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Backend Development Learning Repository
 
 A comprehensive repository containing full-fledged backend projects and learning modules built with **Node.js**, **Express.js**, **MongoDB**, and **Modern Authentication & Cloud Storage architectures**. 
@@ -60,3 +61,6 @@ To run any of the projects locally:
 ## 👨‍💻 Author & Credits
 - **Developer:** [Jaikaran Prajapati](https://github.com/jaikaran109)
 - **Guidance & Mentorship:** [Ankur Prajapati](https://youtube.com) (Backend Series)
+=======
+yoooooo
+>>>>>>> da592059060c80ee6f146815a1e48bcb25cdb92e
