@@ -1,0 +1,28 @@
+{
+  "name": "jest-testing-guide",
+  "version": "1.0.0",
+  "description": "Express API Testing with Jest and Supertest",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "supertest",
+    "express",
+    "testing",
+    "tdd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.5.1",
+    "supertest": "^7.2.2"
+  }
+}
