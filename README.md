@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Backend Development Learning Repository
 
 A comprehensive repository containing full-fledged backend projects and learning modules built with **Node.js**, **Express.js**, **MongoDB**, and **Modern Authentication & Cloud Storage architectures**. 
