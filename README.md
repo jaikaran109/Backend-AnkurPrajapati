@@ -58,8 +58,5 @@ To run any of the projects locally:
 ---
 
 ## 👨‍💻 Author & Credits
-- **Developer:** [Jaikaran Prajapati](https://github.com/jaikaran109)
+- **Developer:** [Jai Karan Gupta](https://github.com/jaikaran109)
 - **Guidance & Mentorship:** [Ankur Prajapati](https://youtube.com) (Backend Series)
-=======
-yoooooo
->>>>>>> da592059060c80ee6f146815a1e48bcb25cdb92e
